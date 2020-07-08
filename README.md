@@ -1,6 +1,6 @@
 ## Managing Merge Conflicts
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities.
+This repository will be used during the different activities.
 
 The GitHub Learning Lab bot will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
 
